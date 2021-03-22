@@ -12,4 +12,4 @@ I'm full stack developer using laravel framework at backend and bootstrap at fro
 - ⚡ Fun fact: ...
 
 ### 📫 How to reach me:
-[<img align="left" alt="abdulnaser-mohsen-7233a5103 |LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdulnaser-mohsen-7233a5103/)
+-[<img align="left" alt="abdulnaser-mohsen-7233a5103 |LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdulnaser-mohsen-7233a5103/)
