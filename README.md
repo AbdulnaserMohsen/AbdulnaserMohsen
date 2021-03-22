@@ -23,8 +23,8 @@ I'm full stack developer using laravel framework at backend and bootstrap at fro
 ![Jquery](https://img.shields.io/badge/-Jquery-blue?style=flat-square&logo=Jquery)
 
 # web Development
-![PHP](https://img.shields.io/badge/-php-purple?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-blue?style=flat-square&logo=Laravel)
+![PHP](https://img.shields.io/badge/-php-blue?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=Laravel)
 
 # programming Language
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
