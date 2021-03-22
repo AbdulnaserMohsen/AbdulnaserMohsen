@@ -22,7 +22,7 @@ I'm full stack developer using laravel framework at backend and bootstrap at fro
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Jquery](https://img.shields.io/badge/-Jquery-blue?style=flat-square&logo=Jquery)
 
-# web Development
+######## web Development
 ![PHP](https://img.shields.io/badge/-php-blue?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=Laravel&logoColor=white)
 
