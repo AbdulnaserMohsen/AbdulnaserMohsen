@@ -27,22 +27,22 @@ I'm full stack developer using laravel framework at backend and bootstrap at fro
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=Laravel&logoColor=white)
 
 # programming Language
-![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=C#)
+![C/#](https://img.shields.io/badge/-C/#-black?style=flat-square&logo=C/#)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-gray?style=flat-square&logo=java)
-![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
+![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-gray?style=flat-square&logo=c)
 
 
 # Database
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
-![SQL_server](https://img.shields.io/badge/-SQL_server-black?style=flat-square&logo=SQL_server)
+![MySQL](https://img.shields.io/badge/-MySQL-darkblue?style=flat-square&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-red?style=flat-square&logo=SQLite)
+![SQL_server](https://img.shields.io/badge/-SQL_server-gray?style=flat-square&logo=SQL_server)
 
 # other
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket&logoColor=white)
 
 
