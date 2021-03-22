@@ -27,9 +27,11 @@ I'm full stack developer using laravel framework at backend and bootstrap at fro
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=Laravel&logoColor=white)
 
 # programming Language
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=C#)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-gray?style=flat-square&logo=java)
+![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android)
+![C++](https://img.shields.io/badge/-C++-gray?style=flat-square&logo=c)
 
 
 # Database
