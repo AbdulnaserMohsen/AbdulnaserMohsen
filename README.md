@@ -30,12 +30,14 @@ I'm full stack developer using laravel framework at backend and bootstrap at fro
 ![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=C#)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-gray?style=flat-square&logo=java)
-![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android)
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 ![C++](https://img.shields.io/badge/-C++-gray?style=flat-square&logo=c)
 
 
 # Database
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
+![SQL_server](https://img.shields.io/badge/-SQL_server-black?style=flat-square&logo=SQL_server)
 
 # other
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
