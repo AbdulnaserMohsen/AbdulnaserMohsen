@@ -1,5 +1,5 @@
 ### Hi there 👋
-##I'm Abdulnaser Mohsen
+## I'm Abdulnaser Mohsen
 Learning is what I do and it’s what I’m good at 🤓.
 I'm full stack developer using laravel framework at backend and bootstrap at frontend.
 
@@ -20,4 +20,4 @@ I'm full stack developer using laravel framework at backend and bootstrap at fro
 - 🥅 2020 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to travel
 ### Connect with me:
-[<img align="left" alt="abdulnaser-mohsen-7233a5103 |LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] (https://www.linkedin.com/in/abdulnaser-mohsen-7233a5103/)
+[<img align="left" alt="abdulnaser-mohsen-7233a5103 |LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdulnaser-mohsen-7233a5103/)
