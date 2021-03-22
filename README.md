@@ -8,16 +8,9 @@ I'm full stack developer using laravel framework at backend and bootstrap at fro
 - 👯 I’m looking to collaborate on ... web development
 - 🤔 I’m looking for help with ... Augmeted Reality
 - 💬 Ask me about ... web development
-- 📫 How to reach me: ...[linkedIn](https://www.linkedin.com/in/abdulnaser-mohsen-7233a5103/)
+- 📫 How to reach me: ...[<img align="left" alt="abdulnaser-mohsen-7233a5103 |LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdulnaser-mohsen-7233a5103/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 
-### Hi there, I’m Jobin 👋
-## I’m a Husband, Father, Devops, and System Administrator!
-- 🔭 I’m currently working on a nothing
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other
-- 🥅 2020 Goals: Study and contribute to Opensource projects
-- ⚡ Fun fact: I love to travel
 ### Connect with me:
 [<img align="left" alt="abdulnaser-mohsen-7233a5103 |LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdulnaser-mohsen-7233a5103/)
