@@ -20,7 +20,7 @@ I'm full stack developer using laravel framework at backend and bootstrap at fro
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Jquery](https://img.shields.io/badge/-Jquery-blue?style=flat-square&logo=Jquery)
-![AJAX](https://img.shields.io/badge/-AJAX-blue?style=flat-square&logo=AJAX)
+![AJAX](https://img.shields.io/badge/-Ajax-blue?style=flat-square&logo=Ajax)
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
