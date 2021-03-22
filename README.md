@@ -13,4 +13,4 @@ I'm full stack developer using laravel framework at backend and bootstrap at fro
 
 ### 📫 How to reach me:
 - [<img align="left" alt="abdulnaser-mohsen-7233a5103 |LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdulnaser-mohsen-7233a5103/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naserahmed1995@gmail.com)](mailto:naserahmed1995@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-naserahmed1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naserahmed1995@gmail.com)](mailto:naserahmed1995@gmail.com)
